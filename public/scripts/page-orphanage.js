@@ -26,6 +26,7 @@ const icon = L.icon({
 // create and add marker
 L.marker([-27.2165129,-49.6445713,15.75], { icon })
  .addTo(map) 
+ 
 
 //  image gallerry
 
